@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Tesla-WebApp</finalName>
+		<finalName>Test-WebApp</finalName>
 		
 		<plugins>
 			<plugin>
